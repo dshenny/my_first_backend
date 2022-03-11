@@ -1,6 +1,6 @@
 # my_first_backend
 
-My First Backend is a project designed to teach the basics of Expresss while setting up a Frank Sinatra Wiki. 
+my_first_backend is a project designed to teach the basics of Expresss while setting up a Frank Sinatra Wiki. 
 
 
 
